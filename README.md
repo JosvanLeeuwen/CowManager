@@ -1,0 +1,2 @@
+# CowManager
+SensOor
